@@ -60,5 +60,6 @@ Organizers: Patrick Drane, University of Massachusetts Lowell, and Yasuo Nakamur
 * Biomechanical Analysis of Motion of Professional Baseball Pitchers
 * * Kei Aoki, National Institute of Advanced Industrial Science and Technology
 
+… to be written.
 
 (Photo is to be uploaded.)
