@@ -1,4 +1,4 @@
-# GitJournal 001
+# GitJournal 001: How to Git
 Ichi Kanaya  
 2012-11-03
 
