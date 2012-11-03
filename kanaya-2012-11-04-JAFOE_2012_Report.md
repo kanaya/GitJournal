@@ -1,4 +1,5 @@
 # GitJournal 002Ichi Kanaya  2012-11-04## JAFOE 2012 ReportFrom 29 October 2012 to 31 Octoreb 2012, Japan-America Frontier of Engineering (JAFOE) Symposium was held at Beckman Center, Irvine, California, USA. The sypmosium was produced by National Academy of Engineering (NAE), USA, and Engineering Academy of Japan (EAJ), and supported by the Grainger Foundation, the US National Science Foundation (NSF), and Japan Science and Technology Agency (JST).
+### What is JAFOE?
 Let me quote description of JAFOE from web site of National Academy of Engineering.
 > The 2012 Japan-American Frontiers of Engineering will be held October 29-31, 2012, at the Arnold and Mabel Beckman Center in Irvine, California.  Sixty of the most promising engineers under the age of 45 from Japan and the United States will meet for an intensive 2-1/2 day symposium on developments at the cutting edge of engineering technology. The event is intended to facilitate international and cross-disciplinary research collaboration, promote the transfer of new techniques and approaches across disparate engineering fields, and encourage the creation of a transpacific network of world-class engineers.
 To add to this, the symposium was closed event that each only 30 engineers could join.
@@ -58,3 +59,6 @@ Organizers: Patrick Drane, University of Massachusetts Lowell, and Yasuo Nakamur
 * * Alison Sheets, Nike
 * Biomechanical Analysis of Motion of Professional Baseball Pitchers
 * * Kei Aoki, National Institute of Advanced Industrial Science and Technology
+
+
+(Photo is to be uploaded.)
