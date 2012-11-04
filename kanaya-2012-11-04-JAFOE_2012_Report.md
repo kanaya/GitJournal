@@ -12,6 +12,10 @@ Let me quote description of JAFOE from web site of National Academy of Engineeri
 
 To add to this, the symposium was closed event that each only 30 engineers could join.
 
+Each JAFOE symposium has 4 sessions. The year 2012 has the following sessions: Video content analysis, engineering for natural desaster resiliency, engineering for agriculture, and sports engineering.
+
+As we had had ten JAFOE symposia so far, the 11th JAFOE in 2012 hosted new topics based on "Engineering for X" paradigm, but not traditional X-Engineering like material engineering, bio enigneering, etc. The original topics for 2012 were engineering for security, engineering for natural disaster, engineering for agricluture, and engineering for sports; and we tweaked some of them a little bit. For example, to broaden area of interesting, we changed the title of engineering for security to video content analysis.
+
 ## List of Sessions
 Symposium co-chairs: Katharine Frase, IBM, and Ichiroh Kanaya, Osaka University
 
