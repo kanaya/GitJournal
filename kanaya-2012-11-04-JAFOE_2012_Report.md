@@ -63,13 +63,13 @@ Organizers: Yoshisada Nagasaka, National Agriculture and Food Research Organizat
 Organizers: Patrick Drane, University of Massachusetts Lowell, and Yasuo Nakamura, Doshisha University
 
 * Functional Footwear Design
-* * Kenta Moriyasu, ASICS Corporation
+	* Kenta Moriyasu, ASICS Corporation
 * State-of-the-Art Composite Design and Manufacturing for Sports Equipment
-* * Matt Vacek, Jarden Team Sports
+	* Matt Vacek, Jarden Team Sports
 * Dynamics and Biomechanics of Sports
-* * Alison Sheets, Nike
+	* Alison Sheets, Nike
 * Biomechanical Analysis of Motion of Professional Baseball Pitchers
-* * Kei Aoki, National Institute of Advanced Industrial Science and Technology
+	* Kei Aoki, National Institute of Advanced Industrial Science and Technology
 
 … to be written.
 
