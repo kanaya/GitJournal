@@ -1,7 +1,7 @@
 GitJournal
 ==========
+Ichi Kanaya  
 2012-11-04  
-Ichi Kanaya
 
 GitJournal とはなんですか？
 ----------
