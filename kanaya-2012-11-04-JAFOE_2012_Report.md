@@ -53,7 +53,10 @@ Organizers: Yoshisada Nagasaka, National Agriculture and Food Research Organizat
 
 * Applications of Precision Agriculture in Rural Communities 
 	* Amy Kaleita, Iowa State University
-* TBA
+* Self-feeding of energy, water and food by ecological technology
+	* Chika Tada, Tohoku University
+* Development of Technique for Estimation of Geographical Origin of Food Using Stable Isotope and Trace Element Analyses
+	* Yaeko Suzuki, National Agriculture and Food Research Organization
 * Engineering CEA Systems for a Sustainable Future: Status, Challenges, and Opportunities 
 	* Murat Kacira, University of Arizona
 * Food Safety and Quality Assurance of Food Products
