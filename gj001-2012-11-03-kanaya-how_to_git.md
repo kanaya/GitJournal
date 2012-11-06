@@ -1,6 +1,6 @@
 # GitJournal 001: How to Git
-Ichi Kanaya  
-2012-11-03
+2012-11-03  
+Ichi Kanaya
 
 ## 0. 導入
 バージョン管理してる？

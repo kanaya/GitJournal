@@ -1,7 +1,6 @@
 # GitJournal 002: JAFOE 2012 Report
-
-Ichi Kanaya  
-2012-11-04
+2012-11-04  
+Ichi Kanaya
 
 From 29 October 2012 to 31 Octoreb 2012, Japan-America Frontier of Engineering (JAFOE) Symposium was held at Beckman Center, Irvine, California, USA. The sypmosium was produced by National Academy of Engineering (NAE), USA, and Engineering Academy of Japan (EAJ), and supported by the Grainger Foundation, the US National Science Foundation (NSF), and Japan Science and Technology Agency (JST).
 
